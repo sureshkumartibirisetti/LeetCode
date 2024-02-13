@@ -1,5 +1,5 @@
 # LeetCode
-[LeetCode Profile](https://leetcode.com/20MH1A04I2/) <br>
+[:link:LeetCode Profile](https://leetcode.com/20MH1A04I2/) <br>
 Solved problems in Leetcode <br>
 Difficuly level <br>
 :arrow_right:Easy <br>
