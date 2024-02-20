@@ -7,6 +7,5 @@ class Solution {
             }
         }
         return count;
-        
     }
 }
