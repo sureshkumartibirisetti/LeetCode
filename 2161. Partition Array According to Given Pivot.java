@@ -15,6 +15,6 @@ class Solution {
         al1.addAll(al2);
         al1.addAll(al3);
         int[] intArray = al1.stream().mapToInt(i -> i).toArray();
-        return intArray;
+        return intArray; 
     }
 }
