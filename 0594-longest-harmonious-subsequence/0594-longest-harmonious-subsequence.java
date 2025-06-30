@@ -1,29 +1,35 @@
 class Solution {
     public int findLHS(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int i :nums){
-            map.put(i,map.getOrDefault(i,0)+1);
-        }
         Arrays.sort(nums);
-        int res=0;
-        int l=0;
-        int r=0;
-        while(r!=nums.length){
-            if(nums[l]==nums[r]){
-                r++;
-            } else if (nums[r]-nums[l]!=1) {
-                l=r;
-                r=l+1;
-            }else{
-                int a=map.get(nums[l]);
-                int b=map.get(nums[r]);
-                if(res<(a+b)){
-                    res=a+b;
+        int f = nums[0], s = nums[0], fc = 0, sc = 0, mc = 0;
+        boolean sf = false;
+
+        for(int i = 0;i<nums.length;i++){
+            if(nums[i] == f) fc++;
+            if(nums[i] - f == 1) {
+                sc++;
+                sf = true;
+                s = nums[i];
+            } else if(nums[i] - f > 1){
+                if(sf && mc < fc+sc){
+                    mc = fc+sc;
                 }
-                l=r;
-                r=l+1;
+                if(sf && nums[i] - s == 1){
+                    fc = sc;
+                    sc = 1;
+                    f = s;
+                    s=nums[i];
+                } else {
+                    fc = 1;
+                    sc = 0;
+                    f = nums[i];
+                    sf = false;
+                }
             }
         }
-        return res;
+        if(sf && mc < fc+sc){
+            mc = fc+sc;
+        }
+        return mc;
     }
 }
