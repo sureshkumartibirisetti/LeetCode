@@ -135,5 +135,6 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Math
 |  |
 | ------- |
+| [0504-base-7](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
