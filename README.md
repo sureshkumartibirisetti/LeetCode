@@ -119,4 +119,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
