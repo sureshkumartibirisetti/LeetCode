@@ -131,4 +131,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
