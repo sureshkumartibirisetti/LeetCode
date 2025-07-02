@@ -128,6 +128,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0520-detect-capital](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0520-detect-capital) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -137,4 +138,12 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | ------- |
 | [0504-base-7](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
