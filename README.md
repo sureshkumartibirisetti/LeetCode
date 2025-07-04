@@ -139,6 +139,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -154,6 +155,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
