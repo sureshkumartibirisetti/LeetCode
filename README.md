@@ -113,6 +113,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | ------- |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0520-detect-capital) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
