@@ -104,6 +104,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
@@ -131,6 +132,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -211,6 +213,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
