@@ -101,6 +101,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
@@ -186,4 +187,12 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
