@@ -116,6 +116,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0001-two-sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -142,6 +143,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0520-detect-capital) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -160,6 +162,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0007-reverse-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
