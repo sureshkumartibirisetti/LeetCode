@@ -105,6 +105,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
@@ -187,6 +188,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -225,4 +227,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
