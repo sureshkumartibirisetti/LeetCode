@@ -122,6 +122,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Hash Table
@@ -183,6 +184,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -256,6 +258,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Trie
 |  |
