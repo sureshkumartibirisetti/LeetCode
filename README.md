@@ -106,6 +106,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0014-longest-common-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -241,6 +242,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
