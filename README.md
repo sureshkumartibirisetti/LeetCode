@@ -152,6 +152,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0520-detect-capital) |
@@ -226,6 +227,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
