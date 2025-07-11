@@ -174,6 +174,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0125-valid-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -260,6 +261,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
