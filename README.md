@@ -107,6 +107,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
@@ -150,6 +151,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -250,6 +252,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
