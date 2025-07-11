@@ -181,6 +181,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1472-increasing-decreasing-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1472-increasing-decreasing-string) |
+| [1894-merge-strings-alternately](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -271,6 +272,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1894-merge-strings-alternately](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
