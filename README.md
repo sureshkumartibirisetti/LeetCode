@@ -127,6 +127,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2551-apply-operations-to-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
