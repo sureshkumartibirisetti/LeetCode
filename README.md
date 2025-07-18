@@ -117,6 +117,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
