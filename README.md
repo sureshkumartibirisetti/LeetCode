@@ -116,6 +116,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
