@@ -185,6 +185,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0520-detect-capital](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1472-increasing-decreasing-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1894-merge-strings-alternately](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
