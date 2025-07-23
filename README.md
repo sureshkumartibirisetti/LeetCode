@@ -187,6 +187,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1472-increasing-decreasing-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1472-increasing-decreasing-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -248,6 +249,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -301,6 +303,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Stack
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
