@@ -212,6 +212,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0009-palindrome-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -233,6 +234,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
