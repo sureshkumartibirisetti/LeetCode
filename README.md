@@ -110,6 +110,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -265,6 +266,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
