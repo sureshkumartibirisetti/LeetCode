@@ -215,6 +215,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0029-divide-two-integers](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
@@ -224,6 +225,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0233-number-of-digit-one) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -243,6 +245,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0233-number-of-digit-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
