@@ -197,6 +197,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3794-reverse-string-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2551-apply-operations-to-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3794-reverse-string-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
