@@ -139,6 +139,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -158,6 +159,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -180,6 +182,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0125-valid-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
