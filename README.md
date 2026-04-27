@@ -112,6 +112,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
@@ -139,6 +140,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0500-keyboard-row) |
@@ -159,6 +161,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
