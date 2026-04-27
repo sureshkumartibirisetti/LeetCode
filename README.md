@@ -194,6 +194,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3396-valid-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3396-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -205,6 +206,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
