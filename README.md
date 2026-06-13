@@ -124,6 +124,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1480-running-sum-of-1d-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -244,6 +245,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
 |  |
