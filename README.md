@@ -126,6 +126,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -334,4 +335,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0183-customers-who-never-order) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
