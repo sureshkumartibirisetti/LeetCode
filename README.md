@@ -121,6 +121,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1470-shuffle-the-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -213,6 +214,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -256,6 +258,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -304,6 +307,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0345-reverse-vowels-of-a-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -339,5 +343,6 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
