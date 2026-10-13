@@ -98,8 +98,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
@@ -129,6 +129,7 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [1480-running-sum-of-1d-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sureshkumartibirisetti/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -139,8 +140,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
@@ -156,13 +157,13 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -174,14 +175,14 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1472-increasing-decreasing-string](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0013-roman-to-integer) |
@@ -211,8 +212,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3794-reverse-string-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0495-teemo-attacking](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -223,8 +224,8 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0012-integer-to-roman) |
@@ -237,39 +238,41 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [0504-base-7](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0507-perfect-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sureshkumartibirisetti/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0233-number-of-digit-one) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sureshkumartibirisetti/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0233-number-of-digit-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -277,22 +280,22 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -320,29 +323,38 @@ Feel free to explore and learn from this repository, and I hope it helps you on 
 | [2816-lexicographically-smallest-palindrome](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sureshkumartibirisetti/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0183-customers-who-never-order) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0832-flipping-an-image](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/sureshkumartibirisetti/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sureshkumartibirisetti/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sureshkumartibirisetti/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
